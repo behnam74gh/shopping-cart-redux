@@ -1,0 +1,9 @@
+export const FETCH_PRODUCTS = "FETCH_PRODUCTS";
+export const FILTER_PRODUCTS_BY_SIZE = "FILTER_PRODUCTS_BY_SIZE";
+export const ORDER_PRODUCTS_BY_PRICE = "ORDER_PRODUCTS_BY_PRICE";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const INC_COUNT = "INC_COUNT";
+export const DEC_COUNT = "DEC_COUNT";
+export const CREATE_ORDER = "CREATE_ORDER";
+export const CLEAR_ORDER = "CLEAR_ORDER";
